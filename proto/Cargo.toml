@@ -23,5 +23,5 @@ protobuf-build = { git = "https://github.com/lizhanhui/protobuf-build", branch =
 [dependencies]
 bytes = { version = "1", optional = true }
 lazy_static = { version = "1", optional = true }
-prost = { version = "0.11", optional = true }
+prost = { version = "0.12", optional = true }
 protobuf = "2"
